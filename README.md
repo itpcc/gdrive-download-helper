@@ -1,4 +1,4 @@
-# GDRive download helper
+# GDrive download helper
 Just a little script to help me for downloading files via [gdrive](https://github.com/prasmussen/gdrive) without interrupted by Google API error.
 
 # Origin
