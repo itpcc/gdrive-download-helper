@@ -3,7 +3,7 @@ Just a little script to help me for downloading files via (gdrive)[https://githu
 
 # Origin
  
-I used to have an ASUS's free quota for Google drive. But today, the quota was expired. I have to immidietly ~~~evacuate~~~ copy files to the another Google drive account. But :
+I used to have an ASUS's free quota for Google drive. But today, the quota was expired. I have to immediately ~~~evacuate~~~ copy files to the another Google drive account. But :
 
 - Google doesn't provide an easy option for copying the whole drive to another account.
 - My dormitory's internet is suck! I can't make it done easily. :(
