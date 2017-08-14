@@ -1,5 +1,5 @@
 # GDRive download helper
-Just a little script to help me for downloading files via [gdrive](https://github.com/prasmussen/gdrive) without interrupted by Google API error.
+Just a little script to help me for downloading files via (gdrive)[https://github.com/prasmussen/gdrive] without interrupted by Google API error.
 
 # Origin
  
@@ -14,7 +14,7 @@ So, I have to write this scripts in the middle of the night.
 
 # Usage
 
-1. Download and install `[gdrive](https://github.com/prasmussen/gdrive)`. Don't forget to allow access by run `gdrive list` and follow the instruction. 
+1. Download and install `(gdrive)[https://github.com/prasmussen/gdrive]`. Don't forget to allow access by run `gdrive list` and follow the instruction. 
 2. Get `folderID` from your drive. The easiest way is browse the folder in the browser. You'll see URL like this: `https://drive.google.com/drive/u/0/folders/<folderID>`.
 3. Prepare folder in your local computer and get an absolute folder path.
 4. Fill `<folderID>` in `ist_folders("<folderID>")` (line 23) in `gdrive_list_all.py` ***without parenthesis***.
